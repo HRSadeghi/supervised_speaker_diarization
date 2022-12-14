@@ -1,0 +1,12 @@
+{
+    "data": [
+        {
+            "label": "sadeghi",
+            "voice_data_path": "supervised_speaker_diarization/data/sadeghi.wav"
+        },
+        {
+            "label": "barzini",
+            "voice_data_path": "supervised_speaker_diarization/data/barzini.wav"
+        }
+    ]
+}
